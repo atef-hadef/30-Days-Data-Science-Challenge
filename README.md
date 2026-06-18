@@ -66,8 +66,8 @@ for, and what you aim to achieve over 30 days. Replace this placeholder with you
 - **Day 26 — Resume Screener** — [day-26-resume-screener](week-4-advanced-deployment/day-26-resume-screener/)
 
 ## 🤝 Connect with me
-- LinkedIn: [LINKEDIN URL]
-- GitHub: [GITHUB URL]
+- LinkedIn: https://www.linkedin.com/in/atef-ben-hadef-810aa4292/
+- GitHub: https://github.com/atef-hadef
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.

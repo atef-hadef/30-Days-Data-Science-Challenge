@@ -1,32 +1,49 @@
-# Day 01 — Sales Analysis
+# Day 01 - Sales Analysis
 
-## 🎯 Goal
-[TODO] One sentence describing the objective of this project.
+## Goal
+Analyze the Sample - Superstore dataset to understand sales performance, profitability, seasonality, and geographic trends.
 
-## 📊 Dataset
-- **Source:** Superstore Sales
-- **Link:** [DATASET URL]
+## Dataset
+- **Source:** Kaggle - Superstore Dataset
+- **Link:** [Kaggle dataset page](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-## 🧰 Skills Practiced
-- [TODO]
-- [TODO]
-- [TODO]
+## Skills Practiced
+- Data loading and inspection with pandas
+- Data cleaning and date feature engineering
+- Aggregation and exploratory data analysis
+- Visualization with matplotlib and seaborn
 
-## 🪜 Steps
-1. [TODO]
-2. [TODO]
-3. [TODO]
+## Steps
+1. Load the Superstore dataset and inspect its structure.
+2. Clean the data, convert order dates, and create time-based features.
+3. Analyze sales and profit by category, month, state, and sub-category.
+4. Save the charts in the images folder.
 
-## 💡 Key Findings
-[TODO]
+## Key Findings
+- Technology leads total sales.
+- Sales peak in Q4, with November as the strongest month.
+- Furniture generates much lower profit relative to its sales.
+- California is the top state by sales.
+- Tables and a few other sub-categories are loss-making.
 
-## 🛠️ Tools & Libraries
-- [TODO]
+## Tools & Libraries
+- Python
+- pandas
+- matplotlib
+- seaborn
+- Jupyter Notebook
 
-## ▶️ How to Run
+## How to Run
+Open the notebook in VS Code or launch it with Jupyter from the day-01-sales-analysis folder:
+
 ```bash
-[TODO]
+jupyter notebook notebook.ipynb
 ```
 
-## 📸 Screenshots
-![screenshot](images/[TODO].png)
+## Screenshots
+The notebook saves the charts in the images folder after execution:
+- images/q1_ventes_categorie.png
+- images/q2_ventes_mois.png
+- images/q3_profit_categorie.png
+- images/q4_top_states.png
+- images/q5_profit_subcategory.png

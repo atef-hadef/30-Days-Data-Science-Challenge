@@ -42,8 +42,13 @@ jupyter notebook notebook.ipynb
 
 ## Screenshots
 The notebook saves the charts in the images folder after execution:
-- images/q1_ventes_categorie.png
-- images/q2_ventes_mois.png
-- images/q3_profit_categorie.png
-- images/q4_top_states.png
-- images/q5_profit_subcategory.png
+
+![Sales by Category](images/q1_ventes_categorie.png)
+
+![Sales by Month](images/q2_ventes_mois.png)
+
+![Profit by Category](images/q3_profit_categorie.png)
+
+![Top States by Sales](images/q4_top_states.png)
+
+![Profit by Sub-Category](images/q5_profit_subcategory.png)
